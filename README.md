@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekoana Tebelelo</h1>
-<h3 align="center">Software Engineering student</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 - 📫 How to reach me **tebelekoana@gmail.com**
 
