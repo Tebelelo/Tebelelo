@@ -25,10 +25,27 @@
 <div align="center">
 
 ### 🎯 Profile Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tebelelo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebelelo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=tebelelo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=false" />
+      <br/>
+      <strong>Overall Stats</strong>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebelelo&layout=compact&theme=radical&hide_border=true&langs_count=6&hide_title=false" />
+      <br/>
+      <strong>Top Languages</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tebelelo&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&background=0D1117" />
+      <br/>
+      <strong>Contribution Streak</strong>
+    </td>
+  </tr>
+</table>
 
 ### 🔥 Streak Stats
 <p>
